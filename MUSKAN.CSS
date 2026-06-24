@@ -1,5 +1,5 @@
 body{
-   margin: 0;
+    margin: 0;
     /* min-height: 100vh; */
     /* background-image: url(background3.jpg); */
     background-color: aqua;
@@ -24,6 +24,7 @@ body{
 .mynavdiv{
     background-color: yellow;
     border-radius: 8px;
+    margin-top: 10px;
 }
 
 .mynavdiv ul{
@@ -61,12 +62,7 @@ a{
     background-color: transparent;
     border: 2px solid red;
     outline: none;
-    /* width: 250px;
-    height: 40px;
-    border: 2px solid red;
-    border-right: none;
-    background: transparent;
-    padding-left: 10px; */
+    
 
 }
 
@@ -79,12 +75,7 @@ a{
     padding: 8px;
     border: 2px solid red;
     margin-left: 0;
-    /* width: 100px;
-    height: 40px;
-    background: red;
-    color: white;
-    border: 2px solid red;
-    margin: 0; */
+    
 
 
 }
@@ -94,6 +85,7 @@ a{
     display: flex;
     gap: 180px;
     margin-top: 150px ;
+    margin-left: 10px;
 }
 
 .left-content h1{
@@ -134,18 +126,9 @@ p{
 
 
 /* section 3 */
-/* .login-form{
-    width:250;
-    padding: 20px;
-    /* background-color: blue; */
-    /* background-image: url(/background\ image\ trn2.jpg);
-    border-radius: 10px;
-
-} */
 
 .login-form h1{
     color: rgb(227, 222, 222);
-    /* background-color: rgb(149, 233, 23); */
     background-image: url(bacgrlund.jfif);
     border-color: transparent;
     justify-content: center;
@@ -168,7 +151,7 @@ p{
 
 .login-form button{
     border-radius: 15px;
-    /* background-color: greenyellow; */
+   
     background-image: url(/bacgrlund.jfif);
    color: rgb(236, 21, 21);
     width: 70px;
@@ -179,12 +162,12 @@ p{
     border: none;
     margin-left: 60px;
 
-} */
+} 
 
 
 
 form{
-    width: 150px;
+    width: 350px;
     margin: 50px auto;
     background: white;
     padding: 30px;
